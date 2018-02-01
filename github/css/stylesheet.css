@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Rammetto+One');
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+*,
+*:before,
+*:after{
+margin:0;
+padding:0;
+box-sizing:border-box;
+-moz-box-sizing:border-box;
+-webkit-box-sizing:border-box;
+}
+
+h1{
+    background: rgb(255, 246, 27);
+    font-family: "Rammetto One";
+    text-align: center;
+}
+#dance{
+    color: #22f6ff;
+    font-family: "Rammetto One";
+    
+}
+.song{
+    text-align: center;
+    font-size: 1.25em;
+    font-family: "Berkshire Swash";
+    background: rgba(226, 226, 27, 0.69);
+    margin: 0 auto;
+    max-width: 60%;
+    margin-bottom: 7.5%;
+    
+}
+.header{
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+body{
+    background: url("../img/funky.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
