@@ -29,12 +29,14 @@ h1{
     max-width: 60%;
     margin-bottom: 7.5%;
     padding: 1%;
+    border-radius: 40px;
     
 }
 .header{
     text-align: center;
     margin-bottom: 5%;
     margin-top: 5%;
+    background: rgb(0, 108, 255);
 }
 
 body{

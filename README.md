@@ -7,3 +7,8 @@ These are a small collection of letters written to Bash, Git, and Github, in an 
 * [BASH](https://www.gnu.org/software/bash/)
 * [GIT](https://git-scm.com/)
 * [GITHUB](https://github.com/)
+
+# Live Versions
+* [GitHub](http://creative.colorado.edu/~dosm6711/dev/loveletters/github/githubletter.html)
+* [Git](http://creative.colorado.edu/~dosm6711/dev/loveletters/git/gitletter.html)
+* [Bash](http://creative.colorado.edu/~dosm6711/dev/loveletters/bash/bashletter.html)
