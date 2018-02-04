@@ -9,6 +9,6 @@ These are a small collection of letters written to Bash, Git, and Github, in an 
 * [GITHUB](https://github.com/)
 
 # Live Versions
-* [GitHub](http://creative.colorado.edu/~dosm6711/dev/loveletters/github/githubletter.html)
-* [Git](http://creative.colorado.edu/~dosm6711/dev/loveletters/git/gitletter.html)
-* [Bash](http://creative.colorado.edu/~dosm6711/dev/loveletters/bash/bashletter.html)
+* [GitHub](http://creative.colorado.edu/~dosm6711/dev/love-letters/github/githubletter.html)
+* [Git](http://creative.colorado.edu/~dosm6711/dev/love-letters/git/gitletter.html)
+* [Bash](http://creative.colorado.edu/~dosm6711/dev/love-letters/bash/bashletter.html)
